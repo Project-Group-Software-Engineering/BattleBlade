@@ -1,4 +1,4 @@
-# Software Engineering Project - Group 4
+# Software Engineering Project - Group IV
 
 ## BattleBlade
 
