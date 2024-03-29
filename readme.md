@@ -1,5 +1,5 @@
 # Software Engineering Project - Group IV
 
-## BattleBlade
+## BattleBlade Version 1.0
 
-Developing a glow hockey and/or foosball gaming application which allows smartphones to be used as controllers for connecting and interacting with the game on PC.
+Developing a gaming application which allows smartphones to be used as controllers for connecting and interacting with the game on PC.
