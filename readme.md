@@ -49,6 +49,9 @@ BattleBlade is a multiplayer desktop game which comes with an integrated android
 ## Usage
 Run the executable Battleblade to start the game.
 
+## Video Demo
+https://drive.google.com/drive/folders/1Ql-QpMu4_WbsHbfXlorTrYI8lXfxUpk2?usp=sharing
+
 ## Made with ❤️ by team "Battleblade"
 
 
