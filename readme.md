@@ -49,11 +49,11 @@ BattleBlade is a multiplayer desktop game which comes with an integrated android
 
 
 ## Usage
--Please ensure that the assets and the battleblade.exe are present in the same working directory.
--Run the executable Battleblade to start the game. 
--Open the app installed in your phones to start the controller. 
--Ensure that the PC/ laptop and the mobile phones are connected to the same Wifi.
--Follow the instructions in the game and enjoy.
+- Please ensure that the assets and the battleblade.exe are present in the same working directory.
+- Run the executable Battleblade to start the game. 
+- Open the app installed in your phones to start the controller. 
+- Ensure that the PC/ laptop and the mobile phones are connected to the same Wifi.
+- Follow the instructions in the game and enjoy.
 
 ## Video Demo
 https://drive.google.com/drive/folders/1Ql-QpMu4_WbsHbfXlorTrYI8lXfxUpk2?usp=sharing
