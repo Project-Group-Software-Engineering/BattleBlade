@@ -15,19 +15,21 @@ BattleBlade is a multiplayer desktop game which comes with an integrated android
 
 
 ## Technologies Used
+
 - Flutter/Dart
 - Pygame
 - Websockets
 - Asyncio
 
 ## Libraries used in Game
+
 - pygame
--websockets
--numpy
--json
--asyncio
--subprocess
--math
+- websockets
+- numpy
+- json
+- asyncio
+- subprocess
+- math
 
 ## Libraries used in app
 - material.dart
@@ -39,10 +41,10 @@ BattleBlade is a multiplayer desktop game which comes with an integrated android
 
 ## Installation
 
-# For Desktop Game
+### For Desktop Game
 - Clone the repository Battleblade from Github 
 
-# For Android Application
+### For Android Application
 - Install the application from .apk file provided in the repository
 
 
